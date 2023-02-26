@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5c40e14be2ee0122",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc8b77bb0432647d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Book Notes/Overtime Why We Need a Shorter Working Week.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4f5e0501c4d1efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9921259d29748410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "362cf8b6e9cc170b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a9503c885c9c773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d72c894266f8e71b",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f8727795b8d64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ecb65be415c40d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book Notes/Overtime Why We Need a Shorter Working Week.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bc8b77bb0432647d",
+  "lastOpenFiles": [
+    "Book Notes/The Dawn of Everything A New History of Humanity.md",
+    "Book Notes/Overtime Why We Need a Shorter Working Week.md",
+    "Book Notes/10 Mindful Minutes.md",
+    "Book Notes/images/Pasted image 20220113210217.png",
+    "Templates/Source Note Template.md",
+    "Website or Article Notes/Noam Chomsky and Jeremy Scahill on the Russia-Ukraine War, the Media, Propaganda, and Accountability.md",
+    "Website or Article Notes/Shortcuts Archive - MacStories.md",
+    "Templates/Zettel Template.md",
+    "Templates/Daily Template.md",
+    "Untitled 1.md"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "5c40e14be2ee0122",
+    "type": "split",
+    "children": [
+      {
+        "id": "185c58ff5f2fde42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8b77bb0432647d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Notes/The Myth of Normal Trauma, Illness, & Healing in a Toxic Culture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cda8d902d95f177d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4f5e0501c4d1efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9921259d29748410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "362cf8b6e9cc170b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a9503c885c9c773",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d72c894266f8e71b",
+    "type": "split",
+    "children": [
+      {
+        "id": "14f8727795b8d64a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ecb65be415c40d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book Notes/The Myth of Normal Trauma, Illness, & Healing in a Toxic Culture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+    }
+  },
+  "active": "bc8b77bb0432647d",
+  "lastOpenFiles": [
+    "Pasted image 20230226145459.png",
+    "Book Notes/The Dawn of Everything A New History of Humanity.md",
+    "Pasted image 20230226145445.png",
+    "Book Notes/images/Pasted image 20230226144151.png",
+    "Book Notes/Overtime Why We Need a Shorter Working Week.md",
+    "Book Notes/images/Pasted image 20230226145420.png",
+    "Book Notes/Chaos Charles Manson, the CIA, and the Secret History of the Sixties - Tom O'Neill and Dan Piepenbring.md",
+    "Book Notes/images/Pasted image 20230226144228.png",
+    "Book Notes/Brian Eno - His Music and the Verical Color of Sound.md",
+    "Book Notes/images/Pasted image 20230226144210.png",
+    "Book Notes/10 Mindful Minutes.md",
+    "Book Notes/The Myth of Normal Trauma, Illness, & Healing in a Toxic Culture.md",
+    "Book Notes/images/Pasted image 20220113210217.png",
+    "Book Notes/images/IMG_2432.jpg",
+    "Website or Article Notes/Noam Chomsky and Jeremy Scahill on the Russia-Ukraine War, the Media, Propaganda, and Accountability.md",
+    "Templates/Source Note Template.md",
+    "().md",
+    "Untitled.md"
+  ]
+}
