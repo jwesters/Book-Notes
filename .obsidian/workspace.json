@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc8b77bb0432647d",
+            "id": "cda8d902d95f177d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Notes/The Myth of Normal Trauma, Illness, & Healing in a Toxic Culture.md",
+                "file": "Book Notes/The Canadaland Guide to Canada.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "cda8d902d95f177d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -85,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Notes/The Myth of Normal Trauma, Illness, & Healing in a Toxic Culture.md",
+                "file": "Book Notes/The Canadaland Guide to Canada.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +106,31 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "362cf8b6e9cc170b",
+  "active": "cda8d902d95f177d",
   "lastOpenFiles": [
-    "Pasted image 20230226145459.png",
+    "Book Notes/The Creative Act -  A Way of Being.md",
     "Book Notes/The Dawn of Everything A New History of Humanity.md",
-    "Book Notes/images/Pasted image 20230226145445.png",
-    "Book Notes/images/Pasted image 20230226144151.png",
-    "Book Notes/Overtime Why We Need a Shorter Working Week.md",
-    "Book Notes/images/Pasted image 20230226145420.png",
-    "Book Notes/Chaos Charles Manson, the CIA, and the Secret History of the Sixties - Tom O'Neill and Dan Piepenbring.md",
-    "Book Notes/images/Pasted image 20230226144228.png",
-    "Book Notes/Brian Eno - His Music and the Verical Color of Sound.md",
-    "Book Notes/images/Pasted image 20230226144210.png",
-    "Book Notes/10 Mindful Minutes.md",
     "Book Notes/The Myth of Normal Trauma, Illness, & Healing in a Toxic Culture.md",
-    "Book Notes/images/Pasted image 20220113210217.png",
-    "Book Notes/images/IMG_2432.jpg",
+    "Book Notes/The Canadaland Guide to Canada.md",
+    "Book Notes/10 Mindful Minutes.md",
+    "().md",
+    "Book Notes/Chaos Charles Manson, the CIA, and the Secret History of the Sixties.md",
+    "Book Notes/Brian Eno - His Music and the Verical Color of Sound.md",
+    "Book Notes/Overtime Why We Need a Shorter Working Week.md",
+    "Book Notes/images/32323024.jpg",
+    "Reynolds-WrestleCrap.md",
     "Website or Article Notes/Noam Chomsky and Jeremy Scahill on the Russia-Ukraine War, the Media, Propaganda, and Accountability.md",
     "Templates/Source Note Template.md",
-    "().md",
-    "Untitled.md"
+    "Book Notes/images/Pasted image 20220113210217.png",
+    "Book Notes/images/Pasted image 20230226144151.png",
+    "Book Notes/images/Pasted image 20230226144228.png",
+    "Book Notes/images/Pasted image 20230226145420.png",
+    "Book Notes/images/Pasted image 20230226145445.png",
+    "Book Notes/images/Pasted image 20230226145459.png",
+    "Book Notes/images/60965426.jpg",
+    "Book Notes/images/IMG_2432.jpg",
+    "Book Notes/images/Pasted image 20230226144210.png",
+    "Untitled.md",
+    "O'Neill-Chaos   Charles Manson, the CIA, and the Secret History of the Sixties.md"
   ]
 }
